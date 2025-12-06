@@ -77,7 +77,7 @@ public class CaptainBottleListener implements Listener {
         }
 
         Material type = helmet.getType();
-        return type == Material.OMINOUS_BANNER;
+        return "OMINOUS_BANNER".equals(type.name());
     }
 
     private ItemStack createOminousBottle() {
