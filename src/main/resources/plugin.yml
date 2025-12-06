@@ -1,7 +1,7 @@
 name: OminousBottleAlways
 version: 1.0.0
 main: io.github.soul4723.ominousbottle.OminousBottleAlwaysPlugin
-api-version: 1.21.4
+api-version: 1.21
 description: Forces all raid/patrol captains to always drop exactly one OMINOUS_BOTTLE with proper Bad Omen levels
 author: Soul4723
 website: https://github.com/Soul4723
